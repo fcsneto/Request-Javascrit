@@ -1,7 +1,5 @@
-//List of request
-var onGoingRequest = [];
-//Last request
-var last = 0;
+var onGoingRequest = []; //List of request
+var last = 0; //Last request
 
 //Request OBJ
 function newRequest(url){
